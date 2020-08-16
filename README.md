@@ -1,3 +1,8 @@
-# kakao_clone
+# chrome_app
 
-Kakao Desktop App Clone
+Just my chrome app
+
+To do List,
+Input user name,
+Get weather by API,
+// Image frome unsplash
